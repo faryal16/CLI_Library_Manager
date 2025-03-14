@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "category": "Self-Help",
+        "status": "Read"
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "category": "Programming",
+        "status": "Unread"
+    },
+    {
+        "title": "Deep Work",
+        "author": "Cal Newport",
+        "category": "Productivity",
+        "status": "Read"
+    },
+    {
+        "title": "The Psychology of Money",
+        "author": "Morgan Housel",
+        "category": "Finance",
+        "status": "Unread"
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "category": "Psychology",
+        "status": "Read"
+    }
+]
